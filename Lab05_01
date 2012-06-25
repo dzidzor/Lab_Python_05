@@ -1,0 +1,6 @@
+Problem 1
+a)no output
+b)an error occurs because the function requires two parameters but only one parameter is provided.
+c)8
+d)['one', 'two', 'three', 'four']
+e)72
